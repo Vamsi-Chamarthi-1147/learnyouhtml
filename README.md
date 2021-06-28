@@ -1,5 +1,5 @@
 here is learnyouhtml excercises to understand html better.
-![learnyouhtml](./preview.png)
+![preview](https://user-images.githubusercontent.com/86275315/123578014-877b6300-d7f2-11eb-9160-d0e01a00b647.png)
 
 # learnyouhtml
 
